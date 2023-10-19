@@ -5,6 +5,7 @@ GreenCloset
 <summary>메인페이지</summary>
 <div markdown="1">
 -메인
+  <img width="{80%}" src="{https://github.com/S2MiniS2/GreenCloset/assets/97283810/d461f8b7-414d-4858-9977-943c2031f1c7}"/>
 ![image](https://github.com/S2MiniS2/GreenCloset/assets/97283810/d461f8b7-414d-4858-9977-943c2031f1c7)
 -사이드바
 ![image](https://github.com/S2MiniS2/GreenCloset/assets/97283810/85438d0f-62cc-4a21-93ae-59a22e229fbd)
