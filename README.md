@@ -1,6 +1,7 @@
 # GreenCloset
 
 ![메인페이지](https://github.com/S2MiniS2/GreenCloset/raw/master/assets/97283810/d461f8b7-414d-4858-9977-943c2031f1c7.png)
+![image](https://github.com/S2MiniS2/GreenCloset/assets/97283810/6b168df6-ae3a-4551-a395-b3d1671c808b)
 
 - 메인 페이지
   - ![메인](https://github.com/S2MiniS2/GreenCloset/raw/master/assets/97283810/d461f8b7-414d-4858-9977-943c2031f1c7.png)
